@@ -5,8 +5,8 @@ This module uses ROSEGRAPHICS to demonstrate:
   -- accessing their DATA via INSTANCE VARIABLES.
 
 Authors: David Mutchler, Vibha Alangar, Matt Boutell, Dave Fisher, Mark Hays,
-         Aaron Wilkin, their colleagues, and PUT_YOUR_NAME_HERE.
-"""  # TODO: 1. PUT YOUR NAME IN THE ABOVE LINE.
+         Aaron Wilkin, their colleagues, and Sam Alvares.
+"""  # DONE: 1. PUT YOUR NAME IN THE ABOVE LINE.
 
 ###############################################################################
 #
@@ -18,11 +18,11 @@ Authors: David Mutchler, Vibha Alangar, Matt Boutell, Dave Fisher, Mark Hays,
 #
 #        -- Where is the (0, 0) point on the screen?
 #              WRITE_YOUR_ANSWER_HERE,_REPLACING_THIS
-#
+#upper left
 #        -- In what direction on the screen
 #           does the positive X-axis point?
 #              WRITE_YOUR_ANSWER_HERE,_REPLACING_THIS
-#
+#x right y down
 #        -- In what direction on the screen
 #           does the positive Y-axis point?
 #              WRITE_YOUR_ANSWER_HERE,_REPLACING_THIS
