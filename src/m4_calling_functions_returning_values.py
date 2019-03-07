@@ -32,7 +32,7 @@ def main():
     #       ** Ask a TA or your professor for help in that case. **
     # -------------------------------------------------------------------------
 
-    # m4t_tester.main()
+    m4t_tester.main()
 
 
 def run_test_sum_of_digits():
